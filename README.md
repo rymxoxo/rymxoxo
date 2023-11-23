@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=rym&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=readmerym&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **rymxoxo/rymxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
